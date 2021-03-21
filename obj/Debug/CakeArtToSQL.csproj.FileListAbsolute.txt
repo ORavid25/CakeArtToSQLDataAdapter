@@ -1,0 +1,10 @@
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\bin\Debug\CakeArtToSQL.exe.config
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\bin\Debug\CakeArtToSQL.exe
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\bin\Debug\CakeArtToSQL.pdb
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\obj\Debug\CakeArtToSQL.csprojAssemblyReference.cache
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\obj\Debug\CakeArtToSQL.Form1.resources
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\obj\Debug\CakeArtToSQL.Properties.Resources.resources
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\obj\Debug\CakeArtToSQL.csproj.GenerateResource.cache
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\obj\Debug\CakeArtToSQL.csproj.CoreCompileInputs.cache
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\obj\Debug\CakeArtToSQL.exe
+C:\Users\Or Ravid\source\repos\CakeArtToSQL\obj\Debug\CakeArtToSQL.pdb
